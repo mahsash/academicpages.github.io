@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : &_mshahshahani
 facebook:
   username               :
   app_id                 :
@@ -83,10 +83,10 @@ author:
   name             : "Mahsa"
   avatar           : "profile.png"
   bio              : "Data Scientist and Information Retrieval Researcher at University of Amsterdam"
-  location         : "Location"
+  location         : "Amsterdam, Netherlands"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.nl/citations?user=61heo2wAAAAJ&hl=en&oi=ao"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "_mshahshahani"
   vine             :
   weibo            :
   xing             :
